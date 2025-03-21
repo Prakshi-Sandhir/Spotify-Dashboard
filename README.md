@@ -20,7 +20,7 @@ This interactive Power BI dashboard provides insights into Spotify's top tracks 
 🔸 **Power BI** – Data visualization  
 🔸 **Spotify API / Dataset** – Data source  
 🔸 **Python** – Used for handling URL images  
-🔸 **Excel** *(if preprocessing was done)*  
+ 
 
 
 
